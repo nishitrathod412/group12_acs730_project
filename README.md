@@ -244,3 +244,5 @@ We are re-deploying each enviorment sepratly becuase of the limitatoion on Stude
 Kindly contact us we would loved to answer your querries.
 
 1. Nishit Rathod - Seneca ID - 133411223 - nsrathod@myseneca.ca
+2. 
+3. Harjot Bali - Seneca ID - 127800233 - hsbali@myseneca.ca
