@@ -1,4 +1,4 @@
-# group12_acs730_project
+# Group12 ACS730 Project
 Final Project Group 12: Two-Tier Web Application Automation with Terraform
 
 ******************************
