@@ -1,5 +1,6 @@
 # Group12 ACS730 Project
 Final Project Group 12: Two-Tier Web Application Automation with Terraform
+
 [![tfsec](https://github.com/nishitrathod412/group12_acs730_project/actions/workflows/tfsec.yml/badge.svg)](https://github.com/nishitrathod412/group12_acs730_project/actions/workflows/tfsec.yml)
 ******************************
 Objective of the Project:
